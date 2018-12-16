@@ -1,5 +1,3 @@
-package net.projecteuler;
-
 public class SumOfEvenFibonacciValues {
 /**
  * https://projecteuler.net/problem=2
